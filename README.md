@@ -1,5 +1,11 @@
 # python-api-challenge
-Summary for trends:
+## Summary ##
+This project is designed to fetch data from [OpenWeatherMap API](https://openweathermap.org/api). Visualizations of the weather of 500+ cities across the world of varying distance from the equator will be created. A series of scatter plots will be built to showcase the following relationships:<br>
+* Temperature (F) vs. Latitude
+* Humidity (%) vs. Latitude
+* Cloudiness (%) vs. Latitude
+* Wind Speed (mph) vs. Latitude
+Conclusion for trends:
 1. It is obvious that temperature have a correlation with latitude. Temperature is higher around equator area compared to other area. The Southern Hemisphere is warmer than the Northern Hemisphere, because it is summer in the Southern Hemisphere now.
 
 2. There is no very obvious association between latitude and humidity. However, there are many cities between Lat=40~80 with very high humidity above 60%.
