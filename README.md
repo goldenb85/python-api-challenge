@@ -14,5 +14,7 @@ Conclusion for trends:
 
 4. There is no very obvious association between latitude and wind speed. With high latidude for both Northern and Southern Hemisphere, the wind speed of several cities is over 25 mph, while the wind speed of most of the cities that extracted is between 0 and 15 mph.
 ## Data Source ##
+[OpenWeatherMap API](https://openweathermap.org/api)
+## Tool ##
 
 
