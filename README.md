@@ -25,5 +25,7 @@ Python
 * Lat vs Wind Speed<br>
 <img src="Png/Lat vs Wind Speed.png"><br>
 
+## Extra
+API key needs to be used to fetch data from data source.
 ## Contact
 Email: xinlianghuang85@gmail.com
