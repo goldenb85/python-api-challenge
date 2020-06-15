@@ -25,7 +25,8 @@ Python
 <img src="Png/Lat vs Humidity.png"><br>
 * Lat vs Max Temp<br>
 <img src="Png/Lat vs Max Temp.png"><br>
-* [Lat_WindSpeed](Png/Lat vs Wind Speed.png)<br>
+* Lat vs Wind Speed<br>
+<img src="Png/Lat vs Wind Speed.png"><br>
 
 ## Contact
 Email: xinlianghuang85@gmail.com
