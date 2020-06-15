@@ -5,6 +5,7 @@ This project is designed to fetch data from [OpenWeatherMap API](https://openwea
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
+
 Conclusion for trends:
 1. It is obvious that temperature have a correlation with latitude. Temperature is higher around equator area compared to other area. The Southern Hemisphere is warmer than the Northern Hemisphere, because it is summer in the Southern Hemisphere now.
 2. There is no very obvious association between latitude and humidity. However, there are many cities between Lat=40~80 with very high humidity above 60%.
@@ -27,5 +28,6 @@ Python
 
 ## Extra
 API key needs to be used to fetch data from data source.
+
 ## Contact
 Email: xinlianghuang85@gmail.com
