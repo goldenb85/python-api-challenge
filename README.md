@@ -19,11 +19,12 @@ Conclusion for trends:
 Python
 ## Visualization ##
 
-* Lat vs Cloudiness
+* Lat vs Cloudiness<br>
 <img src="Png/Lat vs Cloudiness.png"><br>
-* Lat vs Humidity
+* Lat vs Humidity<br>
 <img src="Png/Lat vs Humidity.png"><br>
-* [Lat_MaxTemp](Png/Lat vs Max Temp.png)<br>
+* Lat vs Max Temp<br>
+<img src="Png/Lat vs Max Temp.png"><br>
 * [Lat_WindSpeed](Png/Lat vs Wind Speed.png)<br>
 
 ## Contact
