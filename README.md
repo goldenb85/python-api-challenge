@@ -16,5 +16,6 @@ Conclusion for trends:
 ## Data Source ##
 [OpenWeatherMap API](https://openweathermap.org/api)
 ## Tool ##
-
+Python
+## Visualization ##
 
