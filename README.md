@@ -14,7 +14,7 @@ Conclusion for trends:
 ## Data Source ##
 [OpenWeatherMap API](https://openweathermap.org/api)
 ## Tool ##
-Python, API
+Python (Jupyter Notebook), API
 ## Visualization ##
 
 * Lat vs Cloudiness<br>
