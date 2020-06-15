@@ -18,10 +18,11 @@ Conclusion for trends:
 ## Tool ##
 Python
 ## Visualization ##
-  ![Lat_Cloudiness](Png/Lat vs Cloudiness.png)<br>
-  ![Lat_Humidity](Png/Lat vs Humidity.png)<br>
-  ![Lat_MaxTemp](Png/Lat vs Max Temp.png)<br>
-  ![Lat_WindSpeed](Png/Lat vs Wind Speed.png)<br>
+* [UFO2](UFO-level-2/ufo2.PNG)<img src="UFO-level-2/ufo2.PNG">
+* [Lat_Cloudiness](Png/Lat vs Cloudiness.png)<img src="Lat vs Cloudiness.png"><br>
+* [Lat_Humidity](Png/Lat vs Humidity.png)<br>
+* [Lat_MaxTemp](Png/Lat vs Max Temp.png)<br>
+* [Lat_WindSpeed](Png/Lat vs Wind Speed.png)<br>
 
 ## Contact
 Email: xinlianghuang85@gmail.com
